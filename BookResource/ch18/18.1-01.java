@@ -1,0 +1,1 @@
+    int send(String messageType, Object[] args);

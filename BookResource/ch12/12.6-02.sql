@@ -1,0 +1,1 @@
+create table customers (ID int primary key, name varchar, departments varchar)

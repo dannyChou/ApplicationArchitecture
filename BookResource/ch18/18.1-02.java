@@ -1,0 +1,1 @@
+    public void sendConfirmation(String orderID, int amount, String symbol);

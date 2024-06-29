@@ -1,0 +1,1 @@
+<field name = "customer" targetClass = "Customer", dbColumn = "custID", targetTable = "customers" lowerBound = "1" upperBound = "1" setter = "loadCustomer"/>

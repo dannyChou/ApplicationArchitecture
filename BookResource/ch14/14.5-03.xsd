@@ -1,0 +1,11 @@
+<xsl:template match="album">
+    <HTML><BODY bgcolor="white">
+        <xsl:apply-templates/>
+    </BODY></HTML>
+</xsl:template>
+<xsl:template match="album/title">
+    <h1><xsl:apply-templates/></h1>
+</xsl:template>
+<xsl:template match="artist">
+    <P><B>Artist: </B><xsl:apply-templates/></P>
+</xsl:template>

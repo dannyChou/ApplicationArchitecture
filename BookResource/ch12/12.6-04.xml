@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<departmentList>
+    <department name="US">
+        <department name="New England">
+            <department name="Boston" />
+            <department name="Vermont" />
+        </department>
+        <department name="California" />
+        <department name="Mid-West" />
+    </department>
+    <department name="Europe" />
+</departmentList>

@@ -1,0 +1,1 @@
+<jsp:useBean id="helper" type="actionController.ArtistHelper" scope="request"/>

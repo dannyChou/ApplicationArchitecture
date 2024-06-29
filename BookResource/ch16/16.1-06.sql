@@ -1,0 +1,3 @@
+checkVersionSQL...
+
+    SELECT version, modifiedBy, modified FROM customer WHERE id = ?

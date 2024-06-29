@@ -1,0 +1,1 @@
+    contract = new Contract(dataset);
